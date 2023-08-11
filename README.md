@@ -1,7 +1,6 @@
 ## Olá, sou o Alex Mendes!
 
-<span>💻 - Formado em Informática para Internet (Técnico)<span><br>
-<span>🤖 - Apaixonado por tecnologia<span><br>
+<span>💻 - Técnico em Informática<span><br>
 <span>🖥️ - Desenvolvedor Web<span>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
